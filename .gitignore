@@ -2,3 +2,6 @@ data/
 log/
 opt/
 cfg/solr/credentials
+
+.vagrant/
+*.log
